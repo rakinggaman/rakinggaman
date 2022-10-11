@@ -7,13 +7,13 @@
 
 - 👀 I’m interested in coding and sport
 
-- 💻 All of my projects code are available at [rakinggaman](https://github.com/rakinggaman) 
+- 💻 All of my projects code are available at [github.rakinggaman](https://github.com/rakinggaman) 
 
-- 👨‍💻 All of my projects design are available at [mrifkipratama](https://dribbble.com/mrifkipratama) 
+- 👨‍💻 All of my projects design are available at [dribbble.mrifkipratama](https://dribbble.com/mrifkipratama) 
 
 - 📫 How to reach me **mrifkipratama@gmail.com**
 
-- 📄 Know about my experiences [https://www.mrifkipratama.com/](https://www.mrifkipratama.com/)
+- 📄 Know about my experiences [mrifkipratama.com](https://www.mrifkipratama.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
