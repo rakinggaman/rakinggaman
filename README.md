@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M Rifki Pratama</h1>
 <h3 align="center">I'm a Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakinggaman&label=Profile%20views&color=0e75b6&style=flat" alt="rakinggaman" /> </p>
+
 
 - 🌱 I’m currently learning **Frontend Framework**
 
