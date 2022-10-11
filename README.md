@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm M Rifki Pratama</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">I'm a Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakinggaman&label=Profile%20views&color=0e75b6&style=flat" alt="rakinggaman" /> </p>
 
 - 🌱 I’m currently learning **Frontend Framework**
-
-- 👀 I’m interested in coding and sport
 
 - 💻 All of my projects code are available at [github.rakinggaman](https://github.com/rakinggaman) 
 
@@ -34,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakinggaman&show_icons=true&locale=en" alt="rakinggaman" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakinggaman&show_icons=true&locale=en&layout=compact" alt="rakinggaman" /></p>
 
-<h3 align="left">🤝 Nice to meet you ✨</h3>
+
