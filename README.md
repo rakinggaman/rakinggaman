@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **Frontend Framework**
 
+- 📄 Know about my experiences [mrifkipratama.com](https://www.mrifkipratama.com/)
+
 - 💻 All of my projects code are available at [github.rakinggaman](https://github.com/rakinggaman) 
 
 - 👨‍💻 All of my projects design are available at [dribbble.mrifkipratama](https://dribbble.com/mrifkipratama) 
 
 - 📫 How to reach me **mrifkipratama@gmail.com**
 
-- 📄 Know about my experiences [mrifkipratama.com](https://www.mrifkipratama.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
